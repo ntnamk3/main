@@ -1,0 +1,13 @@
+Package: menu.lqm.mobile
+Version: 2.0.0-1
+Section: Tweaks
+Maintainer: Thế Nam <nthe0241@gmail.com>
+Depends: firmware (>7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/menu.lqm.mobile_2.0.0-1_iphoneos-arm.deb
+Size: 854
+MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+Description: Hack LQM
+Name: Liên Quân Hack
+Author: Thê Nam <nthe0241@gmail.com>
+Depiction: https://thenam2003.000webhostapp.com/Cydia/depictions/?p=menu.lqm.mobile
