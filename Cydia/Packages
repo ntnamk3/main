@@ -11,3 +11,18 @@ Description: Hack Free Fire By NemOS (Đã Bao Gồm Cả Antiban)
 Name: Free Fire
 Author: NemOS <nthe0241@gmail.com>
 Depiction: https://github.com/ntnamk3/main/tree/gh-pages/Cydia/depictions/?p=menu.freefire.mobile
+
+
+Package: menu.lqm.mobile
+Version: 2.0.0-1
+Section: Tweaks
+Maintainer: NemOS <nthe0241@gmail.com>
+Depends: firmware (>7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/menu.lqm.mobile_2.0.0-1_iphoneos-arm.deb
+Size: 854
+MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+Description: Hack Liên Quân By NemOS (Đã Bao Gồm Cả Antiban)
+Name: Liên Quân
+Author: NemOS <nthe0241@gmail.com>
+Depiction: https://github.com/ntnamk3/main/tree/gh-pages/Cydia/depictions/?p=menu.lqm.mobile
