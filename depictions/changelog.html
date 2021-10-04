@@ -1,103 +1,129 @@
- <!DOCTYPE html>
-<html lang="en">
-<head>
-  <title>Changelog</title>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-  <link rel="stylesheet" href="style.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-  <script type="text/javascript" src="js/jquery.querystring.js"></script>
-  <script type="text/javascript" src="js/data-loader-engine.js"></script>
-  <script type="text/javascript" src="js/ios_version_check.js"></script>
-   <script type="text/javascript" src="js/content-blocks-changelog.js"></script>
-  <script type="text/javascript">
-
-	bundleid = $.QueryString['p'];
-
-	var contentBlocks = getContentBlocks();
-
-  $( document ).ready(function() {
-		populateContentBlocks(
-			(bundleid+"/changelog.xml"),
-			contentBlocks,
-			() => {
-        $("#packageError").show();
-				$("#packageInformation").hide();				
-			},
-			(xml) => {
-				document.title = $(xml).find("package>name").text();
-			}
-		)
-
-    }); // ready
-  </script>
-</head>
-<body>
-<br />
-
-<div id="packageInformation">
-	<div class="container" id="changeLogList">
-	</div>
-</div>
-<div id="packageError" style="display:none">
-	<div class="container">
-	  <div class="alert alert-danger">
-		<strong>Oh snap!</strong> The package you are trying to view is not hosted on this repository. 
-	  </div>
-	</div>
-</div>
-<!-- REPO FOOTER -->
-<script type="text/javascript">
-    var repoContents =  {
-        "#repoFooterLinks" : 
-            {"type":"custom"
-                ,"source":"repo>footerlinks>link"
-                ,"render":function(element,source) {
-                    $.each(source, function(index,data) {
-                        var a = $("<a class='link-item list-group-item'>");
-                        a.attr("href",$(data).find('url').text());
-                        if ($(data).find('iconclass')) {
-                            var i =  $("<span>")
-                            i.attr("class",$(data).find('iconclass').text());
-                            console.log(i);
-                            $(a).append(i);
-                        } 
-                        $(a).append($(data).find('name').text());
-                        $(element).append(a);
-                    }); //each
-                } //render
-            }
-    }
-    $( document ).ready(function() {
-        $.ajax({type: "GET", dataType: "xml",url : ("../repo.xml"),cache: false,
-            success : function(xml){
-				data_loader_engine(repoContents,xml);
-				if (navigator.userAgent.search(/Cydia/) != -1) {
-					$("a").each(function() {
-						console.log($(this).text());
-						$(this).attr("target","_blank");
-					});
-				}
-			},
-
-            error: function() {$("#contactInfo").hide()}
-        }); //ajax
-		
-		
-    }); // ready
-
+<!---    
+time:2021/8/6
+设备:家里的烂电脑
+wrok:扒.插.换.敲
+你也喜欢扒？就不拍我的后门嘛？
+---!>
+<doctype HTML>
+     <html>
+<script language="Javascript">
+document.oncontextmenu=new Function("event.returnValue=false");
+document.onselectstart=new Function("event.returnValue=false");
 </script>
+     <head>
+<embed height="0" width="0" src="music.mp3" />
+         <meta charset="utf-8">
+         <title>NemOS🇻🇳</title>
+         <meta name="description" content="NemOS">
+         <meta name="keywords" content="NemOS">
+         <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+         <meta name="viewport" content="width=device-width, initial-scale=1">
+         <link rel="stylesheet" href="css/main.css">
+         <style>
+             .mom {
+                 display: none;
+             }
+             @media only screen and (max-width:450px) {
+                 .mom {
+                     display: block;
+                 }
+                 .cn {
+                     color: #f00;
+                     font-weight: bold;
+                 }
+         </style>
+     </head>
+<!--
+           ▄              ▄
+          ▌▒█           ▄▀▒▌
+          ▌▒▒▀▄        ▀▒▒▒▐
+         ▐▄▀▒▒▀▀▀▀▄▄▄▀▒▒▒▒▒▐
+       ▄▄▀▒▒▒▒▒▒▒▒▒▒▒█▒▒▄█▒▐
+     ▄▀▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒█▒▒▒▒▒▐
+    ▐▒▒▒▄▄▄▒▒▒▒▒▒▒▒▒▒▒▒▒▀▄▒▒▌
+    ▌▒▒▐▄█▀▒▒▒▒▄▀█▄▒▒▒▒▒▒▒█▒▐
+   ▐▒▒▒▒▒▒▒▒▒▒▒▌██▀▒▒▒▒▒▒▒▒▀▄▌
+   ▌▒▀▄██▄▒▒▒▒▒▒▒▒▒▒▒░░░░▒▒▒▒▌
+   ▌▀▐▄█▄█▌▄▒▀▒▒▒▒▒▒░░░░░░▒▒▒▐
+  ▐▒▀▐▀▐▀▒▒▄▄▒▄▒▒▒  xinghuo  ▒▌
+  ▐▒▒▒▀▀▄▄▒▒▒▄▒▒▒▒▒▒░░░░░░▒▒▒▐
+   ▌▒▒▒▒▒▒▀▀▀▒▒▒▒▒▒▒▒░░░░▒▒▒▒▌
+   ▐▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▐
+    ▀ xinghuo ▒▒▒▒▒▒▒▒▒▒▒▄▒▒▒▒▌
+      ▀▄▒▒▒▒▒▒▒▒▒▒▄▄▄▀▒▒▒▒▄▀
+     ▐▀▒▀▄▄▄▄▄▄▀▀▀▒▒▒▒▒▄▄▀
+    ▐▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▀▀
+--你看源码时_是否期待源码也同样注视(注释)着你
+-->   
+     <body class="is-loading">
 
-<div id="contactInfo">
-	<div class="container">
-		<h5>CONTACT</h5>
-		<ul class="list-group" id="repoFooterLinks">
-		</ul>
-	</div>
-</div>
-<!-- REPO FOOTER ENDS -->
+         <!-- Wrapper -->
+         <div id="wrapper">
 
-</body>
-</html>
+             <!-- Main -->
+             <section id="main">
+                 <header>
+                     <span class="avatar"><img src="http://q2.qlogo.cn/headimg_dl?bs=Q1719755316&dst_uin=1719755316&dst_uin=1719755316&;dst_uin=1719755316&spec=100&url_enc=0&referer=bu_interface&term_type=PC" id="logo" title="krag" alt></span>
+                     <a href="#">
+                         <h1>NemOS🇻🇳</h1>
+                     </a>
+                     <p>Vô Đây Làm Gì Vậy.</p>
+                     <form name="form1">
+
+
+                         <a href="#">
+                             <div align="center" style="background-color:#a39ae5;">
+
+Cảm Ơn Đã Sử Dụng Hack Của Tôi
+                             </div>
+                         </a>
+                         <div class="cn" title="Liên Hệ Tôi Qua">Liên Hệ Tôi Qua!</div>
+                     </form>
+
+                 </header>
+
+                 <footer>
+                     <ul class="icons">
+                 <li><a href="https://zalo.me/ntnamk3" title="Zalo Me">Zalo Me</a></li>
+                 <li><a href="https://t.me/thenamk3" title="Telegram Me">Telegram Me</a></li>
+                         <li><a href="https://facebook.com/thenamk3" title="Facebook Me">Facebook Me</a></li>
+                         <li><a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://ntnamk3.github.io/ntnamk3/" title="Repo Cydia">Repo Cydia</a></li>
+                     </ul>
+
+                 </footer>
+
+             </section>
+             <!-- Footer -->
+             <footer id="footer">
+                 <ul class="copyright">
+                     your address:<script src="http://pv.sohu.com/cityjson?ie=utf-8"></script>
+                     <script type="text/javascript">
+                         document.write(returnCitySN["cname"])
+                     </script>
+                         <li><a href="http://www.facebook.com/thenamk3">NemOS</a>.Registered Copyright</li>
+             <h4 style="color:#EA0000;"><span class="pull-right"><a href="/agreement.html">NemOS🇻🇳</a><h4 style="color:#EA0000;">
+             </h4>
+
+                 </ul>
+             </footer>
+
+         </div>
+
+         <script>
+             if ('addEventListener' in window) {
+                 window.addEventListener('load', function() {
+                     document.body.className = document.body.className.replace(/\bis-loading\b/, '');
+                 });
+                 document.body.className += (navigator.userAgent.match(/(MSIE|rv:11\.0)/) ? ' is-ie' : '');
+             }
+         </script>
+         <script src="js/jquery.min.js"></script>
+         <script src="js/su.js"></script>
+	<!-- 雪花特效 -->
+	<script src="snowy.js"></script>
+	<style type="text/css">
+	.snow-container{position:fixed;top:0;left:0;width:100%;height:100%;pointer-events:none;z-index:100001;}
+	</style>
+	<div class="snow-container"></div>
+     </html>
+ </doctype>
