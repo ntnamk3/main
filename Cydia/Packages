@@ -2,8 +2,7 @@ Package: menu.freefire.mobile
 Version: 1.5
 Section: Tweaks
 Maintainer: NemOS <nthe0241@gmail.com>
-Depends: firmware (>7.0), mobilesubstrate
-Architecture: iphoneos-arm
+Depends: firmware (>11.0), mobilesubstrate
 Filename: ./debs/menu.freefire.mobile_1.5_iphoneos-arm.deb
 Description: Hack Free Fire By NemOS (Đã Bao Gồm Cả Antiban)
 Name: Free Fire
@@ -16,8 +15,7 @@ Package: menu.lqm.mobile
 Version: 1.5
 Section: Tweaks
 Maintainer: NemOS <nthe0241@gmail.com>
-Depends: firmware (>7.0), mobilesubstrate
-Architecture: iphoneos-arm
+Depends: firmware (>11.0), mobilesubstrate
 Filename: ./debs/menu.freefire.mobile_1.5_iphoneos-arm.deb
 Description: Hack Liên Quân By NemOS (Đã Bao Gồm Cả Antiban)
 Name: Liên Quân
