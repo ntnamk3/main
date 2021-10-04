@@ -5,7 +5,6 @@ Maintainer: NemOS <nthe0241@gmail.com>
 Filename: ./debs/menu.freefire.mobile_1.5_iphoneos-arm.deb
 Description: Hack Free Fire By NemOS (Đã Bao Gồm Cả Antiban)
 Name: Free Fire
-Size: 854
 Author: NemOS <nthe0241@gmail.com>
 Depiction: https://github.com/ntnamk3/main/tree/gh-pages/Cydia/depictions/?p=menu.freefire.mobile
 
@@ -17,6 +16,5 @@ Maintainer: NemOS <nthe0241@gmail.com>
 Filename: ./debs/menu.freefire.mobile_1.5_iphoneos-arm.deb
 Description: Hack Liên Quân By NemOS (Đã Bao Gồm Cả Antiban)
 Name: Liên Quân
-Size: 854
 Author: NemOS <nthe0241@gmail.com>
 Depiction: https://github.com/ntnamk3/main/tree/gh-pages/Cydia/depictions/?p=menu.lqm.mobile
