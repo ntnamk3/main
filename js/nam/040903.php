@@ -1,9 +1,9 @@
 <?php
 
 
-$user = $_GET['api'];
+$user = $_GET['1'];
 
-if($user == "1"){
+if($user){
 
     function subscriptionManager($setDate, $setBlacklisted, $userName) {
     	$date = new DateTime("$setDate 00:00:00");
