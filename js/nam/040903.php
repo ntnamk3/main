@@ -1,7 +1,7 @@
 <?php
 
 
-$user = $_GET['1'];
+$user = $_GET['api'];
 
 if($user){
 
@@ -21,11 +21,11 @@ if($user){
 
  
     if($user == '100'){
-        echo subscriptionManager("2022-03-08", "1", "iosnab");
+        echo subscriptionManager("2022-03-08", "0", "iosnab");
     }
    
     if($user == '200'){
-        echo subscriptionManager("2023-03-08", "1", "iosnab");
+        echo subscriptionManager("2023-03-08", "0", "iosnab");
     }
 }
 ?>
