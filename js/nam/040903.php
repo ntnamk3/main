@@ -5,8 +5,8 @@ $user = $_GET['api'];
 
 if($user){
 
-    function subscriptionManager($setDate, $setBlacklisted, $userName) {
-    	$date = new DateTime("$setDate 00:00:00");
+    function subscriptionManager(0,$setDate, $setBlacklisted, $userName) {
+    	$date = new DateTime("$setDate 10:00:00");
     	$date->modify("10 day");
 
     	$datenum=strtotime($date->format("Y-m-d H:i:s"));
@@ -21,11 +21,11 @@ if($user){
 
  
     if($user == '100'){
-        echo subscriptionManager("2022-03-08", "0", "iosnab");
+        echo subscriptionManager("2022-03-08", "0", "nemos");
     }
    
     if($user == '200'){
-        echo subscriptionManager("2023-03-08", "0", "iosnab");
+        echo subscriptionManager("2023-03-08", "0", "nemos");
     }
 }
 ?>
