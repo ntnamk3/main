@@ -7,7 +7,7 @@ if($user){
 
     function subscriptionManager($setDate, $setBlacklisted, $userName) {
     	$date = new DateTime("$setDate 00:00:00");
-    	$date->modify("-1 day");
+    	$date->modify("10 day");
 
     	$datenum=strtotime($date->format("Y-m-d H:i:s"));
     	$diff=$datenum-time();
