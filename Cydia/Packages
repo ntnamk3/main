@@ -2,7 +2,7 @@ Package: menu.freefire.mobile
 Version: 1.5
 Section: Tweaks
 Maintainer: Thế Nam <nthe0241@gmail.com>
-Depends: firmware (>10.0), mobilesubstrate
+Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/menu.freefire.mobile_2.0.0-1_iphoneos-arm.deb
 Size: 854Kb
@@ -18,7 +18,7 @@ Version: 1.5
 Section: Tweaks
 Size: 854Kb
 Maintainer: NemOS <nthe0241@gmail.com>
-Depends: firmware (>10.0), mobilesubstrate
+Depends: firmware (>7.0), mobilesubstrate
 Filename: ./debs/menu.freefire.mobile_1.5_iphoneos-arm.deb
 Description: Hack Liên Quân By NemOS (Đã Bao Gồm Cả Antiban)
 Name: Liên Quân
