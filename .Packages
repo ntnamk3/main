@@ -1,5 +1,5 @@
 Package: menu.freefire.mobile
-Version: 2.0.0-1
+Version: 1.5
 Section: Tweaks
 Maintainer: Thế Nam <nthe0241@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
@@ -10,4 +10,4 @@ MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
 Description: Hack Free Fire
 Name: Free Fire Hack
 Author: Thê Nam <nthe0241@gmail.com>
-Depiction: https://ntnamk3.github.io/main/depictions/?p=menu.freefire.mobile
+Depiction: https://info-thenamk3.tk/Cydia/depictions/?p=menu.freefire.mobile
