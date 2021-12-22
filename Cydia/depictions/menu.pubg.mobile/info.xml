@@ -1,11 +1,11 @@
 <package>
-	<id>menu.freefire.mobile</id>
+	<id>menu.pubg.mobile</id>
 	<name>FreeFire</name>
-	<version>1.0.0-1</version>
+	<version>1.7.0</version>
 	<compatibility>
 		<firmware>
-			<maxiOS>7.0</maxiOS>
-			<otherVersions>unsupported</otherVersions>
+			<maxiOS>11.0</maxiOS>
+			<otherVersions>supported</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
 			-->
@@ -13,7 +13,7 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>This is an old package. Requires iOS 7 and below..</description>
+		<description>Menu Hack Pubg Korea.</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
