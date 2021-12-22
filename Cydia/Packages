@@ -4,11 +4,11 @@ Section: Tweaks
 Maintainer: Thế Nam <nthe0241@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/menu.freefire.mobile_2.0.0-1_iphoneos-arm.deb
-Size: 854Kb
-MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+Filename: ./debs/menu.pubg.mobile_1.7+@Thenamk3_iphoneos-arm.deb
+Size: 1404Kb
+MD5sum: 786d3d65733bfb244d62ec6b6721aa7c
 Description: Hack Free Fire
-Name: Free Fire Hack
+Name: Hack Pubg Korea
 Author: Thê Nam <nthe0241@gmail.com>
 Depiction: https://info-thenamk3.tk/Cydia/depictions/?p=menu.freefire.mobile
 
