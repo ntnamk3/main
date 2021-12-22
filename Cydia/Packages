@@ -12,3 +12,19 @@ Description: Hack PUbg Korea
 Name: Hack Pubg Korea
 Author: Thê Nam <nthe0241@gmail.com>
 Depiction: https://info-thenamk3.tk/Cydia/depictions/?p=menu.pubg.mobile
+
+
+Package: menu.pubgglobal.mobile
+Version: 1.7.0
+Section: Tweaks
+Maintainer: Thế Nam <nthe0241@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/Esp Free GloBal 1.7.deb
+MD5sum: ef6e4f8c2502a879d6ad740a64eff111
+SHA1: aabac30ef0ae8f617b83aeffd2f547ebdf329d5e
+SHA256: 0e547a67ae86d49d93fe50a229fb464e09920be2cd632f13ee2c6dfe4a3f6452
+Description: Hack PUBG Global
+Name: Hack Pubg Global
+Author: Thê Nam <nthe0241@gmail.com>
+Depiction: https://info-thenamk3.tk/Cydia/depictions/?p=menu.pubgkr.mobile
