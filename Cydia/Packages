@@ -5,7 +5,6 @@ Maintainer: Thế Nam <nthe0241@gmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/menu.pubg.mobile_1.7+@Thenamk3_iphoneos-arm.deb
-Size: 1404Kb
 MD5sum: 786d3d65733bfb244d62ec6b6721aa7c
 SHA1: 20cc79debacb881536eaf233bd8db1feb22f81d6
 SHA256: b9dc8b182a82af6da1c3a32018990c11e713cee8ad7e4a76bcb8ce2d4f5e39c2
