@@ -43,3 +43,18 @@ Description: Hack PUBG VNG Đã Có Antiban 10 Yeah nhưng yếu,vui lòng thêm
 Name: Hack Pubg VNG
 Author: Thế Nam <nthe0241@gmail.com>
 Depiction: https://t.me/thenamk3
+
+Package: com.nemos.kgvn
+Version: 1.1.0
+Section: Tweaks
+Maintainer: Thế Nam <nthe0241@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.nemos.kgvn_1.0.0+NemOS.Main+1_iphoneos-arm.deb
+MD5sum: 063bb13727f95f115db943808d483a35
+SHA1: b1d4fc36904ab385d0ac3f0ed485f199a119e025
+SHA256: 8ab3cc3c880504228b474dd644121e9ade74f262dc30ee9e6cc7afa929c864fa
+Description: Hack Liên Quân Free truy cập https://t.me/thenamk3xKey nhận key free
+Name: Hack Liên Quân
+Author: Thế Nam <nthe0241@gmail.com>
+Depiction: https://t.me/thenamk3
