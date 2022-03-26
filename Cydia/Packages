@@ -1,29 +1,15 @@
-Package: com.nemos.freefire
-Version: 1.0.0
-Section: Tweaks
-Maintainer: Thế Nam <nthe0241@gmail.com>
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: ./debs/com.nemos.freefire_1.0.0+NemOS.Main+1_iphoneos-arm.deb
-MD5sum: 53ed75a9275f03660b8b42f85e822bf5
-SHA1: 101caa182845eace79467a81ba56c4e2db297715
-SHA256: 0d4a351ca1538f665645057d7bb92351028deb47e6a1d067cfe05ba30d66eec4
-Description: Mua Hack Free Fire Inbox Me
-Name: Free Fire Hack New 
-Author: Thê Nam <nthe0241@gmail.com>
-Depiction: https://t.me/thenamk3
 
-Package: com.nemos.kgvn
-Version: 1.4.0
+Package: com.nacl.hm
+Version: 1.5.0
 Section: Tweaks
 Maintainer: Thế Nam <nthe0241@gmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.nemos.kgvn_1.0.0+NemOS.Main+1_iphoneos-arm.deb
-MD5sum: 07ce03f02995593719326744c342fd16
-SHA1: 6e4f30cf9aecb612005c915c2262efe87544d870
-SHA256: 107914be718bde89dd4234bebe5686168c6328d7dd90c984cd718c3622d53fc3
-Description: Mua Hack LQM inbox zalo.me/ntnamk3
+Filename: ./debs/com.nacl.hm_1.0.0+NemOS.Main+1_iphoneos-arm.deb
+MD5sum: 989ce4a4821884a5eb874d3b03111d69
+SHA1: a0b26b07f7ebd96cf7ab522f4a3c422797be01b5
+SHA256: 778b46993f0272e66833cf143d5aa5d4f29bcfea2333d1431920ab39bba36a0f
+Description: HackLQM Nem
 Name: Liên Quân
 Author: Thê Nam <nthe0241@gmail.com>
 Depiction: https://t.me/thenamk3
