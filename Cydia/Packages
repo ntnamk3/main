@@ -1,16 +1,16 @@
 
 Package: com.nacl.hm
-Version: 1.5.0
+Version: 1.6.0
 Section: Tweaks
 Maintainer: Thế Nam <nthe0241@gmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.nacl.hm_1.0.0+NemOS.Main+1_iphoneos-arm.deb
-MD5sum: 989ce4a4821884a5eb874d3b03111d69
-SHA1: a0b26b07f7ebd96cf7ab522f4a3c422797be01b5
-SHA256: 778b46993f0272e66833cf143d5aa5d4f29bcfea2333d1431920ab39bba36a0f
-Description: HackLQM Nem
-Name: Liên Quân
+Filename: ./debs/com.nacl.hm_1.5.1+NemOS.Main+1_iphoneos-arm.deb
+MD5sum: 13dc0d44d719e84ea284d78708f3f7ce
+SHA1: cb78e3329acf2240e248b2245af73b46b2df96f0
+SHA256: cdbeb7cd4faf6ce7e26334eb4f43cdb5d292167c930dbf6db8e5e8afccbadc72
+Description: HackLQM
+Name: Liên Quân Map
 Author: Thê Nam <nthe0241@gmail.com>
 Depiction: https://t.me/thenamk3
 
