@@ -5,7 +5,7 @@ Section: Tweaks
 Maintainer: Thế Nam <nthe0241@gmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.nacl.hm_1.5.1+NemOS.Main+1_iphoneos-arm.deb
+Filename: ./debs/com.nacl.hm_1.5.2+NemOS.Main+1_iphoneos-arm.deb
 MD5sum: 2edde34b75bd3c1543b4104761a95aee
 SHA1: 95096b90a0633bec5e2158a5e0b43f2633772d86
 SHA256: a1e71a899af417b1b0076098b1a2bec39e56de4a741e191daf68cdf68ee6afa1
