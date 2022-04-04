@@ -1,0 +1,8 @@
+Origin: Kanns Repo
+Label: Kanns repo
+Suite: stable
+Version: 1.0
+Codename: cydia-ios
+Architectures: iphoneos-arm
+Components: main
+Description: Kanns Repo
