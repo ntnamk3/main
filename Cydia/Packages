@@ -1,16 +1,15 @@
 
 Package: com.nacl.hm
-Version: 1.8.0
+Version: 1.8.5
 Section: Tweaks
 Maintainer: Thế Nam <nthe0241@gmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.nacl.hm_1.2.0+SakuraOSX_iphoneos-arm.deb
-MD5sum: 2230b537db853a9d086e449830ed0978
-SHA1: acf7994c4900efe4e372ca07fe0e72ffc9aee591
-SHA256: 62b63520cfd205dffde45f35221fd01ee79a9632781fc31355d2fda940321faf
-Description: HackLQM
+Filename: ./debs/com.nacl.hm_1.3.0+SakuraOSX_iphoneos-arm.deb
+MD5sum: 793244f15078a33422899a8f29b1baa9
+SHA1: 5277b497350031043c2a7a9df7068f7517752114
+SHA256: 274e0f29f408a0163e537034cf5e67a3d7fe44f38b6b542db25d8949fb1eca3d
 Name: Liên Quân Map
 Author: Thê Nam <nthe0241@gmail.com>
-Depiction: https://t.me/thenamk3
+Depiction: Mua Hack LQM IB zalo:0355278216
 
