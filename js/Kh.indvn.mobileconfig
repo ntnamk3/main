@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>DNSSettings</key>
+			<dict>
+				<key>DNSProtocol</key>
+				<string>HTTPS</string>
+				<key>ServerAddresses</key>
+				<array>
+					<string>45.90.28.149</string>
+					<string>45.90.30.149</string>
+					<string>2a07:a8c0::88:1bd9</string>
+					<string>2a07:a8c1::88:1bd9</string>
+				</array>
+				<key>ServerURL</key>
+				<string>https://dns.nextdns.io/881bd9</string>
+			</dict>
+			<key>PayloadDisplayName</key>
+			<string>NextDNS-By-Khoindvn</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.dnsSettings.managed.f5bda4ab-28d2-4e37-8509-41e92c1584ee</string>
+			<key>PayloadType</key>
+			<string>com.apple.dnsSettings.managed</string>
+			<key>PayloadUUID</key>
+			<string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94.881bd9</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>NextDNS Edit By Khơindvn
+- Chặn thu hồi Chứng chỉ 
+- Chặn quảng cáo trung gian qua DNS ( 80% lượng QC dc tắt ).
+- Không bị hao pin và thiếu ổn định như kết nối như qua VPN.
+- Hỗ trợ tất cả các đời IOS.
+- Hỗ trợ chặn quảng cáo trên nền 3G,4G và Wifi.
+- Chặn Ads trên App và Web.</string>
+	<key>PayloadDisplayName</key>
+	<string>NextDNS Edit By Khơindvn</string>
+	<key>PayloadIdentifier</key>
+	<string>NextDns</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94.881bd9</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
