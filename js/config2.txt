@@ -1,0 +1,73 @@
+<?xml version="1" encoding="utf-8"?>
+<config>
+    <DEFAULT>
+        <file type="3" local="" name="" hash_type="1" probability="100" scale="1">
+            <A hash="0A6BC035"/>
+            <B hash="26089637"/>
+        </file>
+        <file type="3" local="" name="" hash_type="1" probability="100" scale="1">
+            <A hash="DB972C2E"/>
+        </file>
+    </DEFAULT>
+    <GAME hash_type="1" hash="2739B9B6">
+        <file type="2" local="" name="" hash_type="1" probability="100" scale="1">
+            <A hash="EA6B5CED"/>
+        </file>
+    </GAME>
+    <GAME hash_type="1" hash="688BA689">
+        <file type="2" local="" name="" hash_type="1" probability="100" scale="1">
+            <A hash="A0CCD791"/>
+        </file>
+    </GAME>
+    <GAME hash_type="1" hash="CF928894">
+        <file type="2" local="" name="" hash_type="1" probability="100" scale="1">
+            <A hash="06BD11C9"/>
+        </file>
+    </GAME>
+    <GAME hash_type="1" hash="08C59708">
+        <file type="2" local="" name="" hash_type="1" probability="100" scale="1">
+            <A hash="75D9AE6B"/>
+        </file>
+    </GAME>
+    <GAME hash_type="1" hash="A1AD6110">
+        <file type="2" local="" name="" hash_type="1" probability="100" scale="1">
+            <A hash="AE35A29D"/>
+        </file>
+    </GAME>
+    <GAME hash_type="1" hash="C971087A">
+        <file type="2" local="" name="" hash_type="1" probability="100" scale="1">
+            <A hash="D153062E"/>
+        </file>
+    </GAME>
+    <GAME hash_type="1" hash="AC5C7619">
+        <file type="2" local="" name="" hash_type="1" probability="100" scale="1">
+            <A hash="57E9715B"/>
+        </file>
+    </GAME>
+    <GAME hash_type="1" hash="CCDFDD36">
+        <file type="2" local="" name="" hash_type="1" probability="100" scale="1">
+            <A hash="3B05905C"/>
+        </file>
+    </GAME>
+    <GAME hash_type="1" hash="E0D0101B">
+        <file type="2" local="" name="" hash_type="1" probability="100" scale="1">
+            <A hash="F57F6753"/>
+        </file>
+    </GAME>
+    <GAME hash_type="1" hash="CB05C1AD">
+        <file type="2" local="" name="" hash_type="1" probability="100" scale="1">
+            <A hash="F8B579D0"/>
+        </file>
+    </GAME>
+    <GAME hash_type="1" hash="218AD450">
+        <file type="2" local="" name="" hash_type="1" probability="100" scale="1">
+            <A hash="D09CF4D9"/>
+        </file>
+    </GAME>
+    <GAME hash_type="1" hash="D80FBFB9">
+        <file type="2" local="" name="" hash_type="1" probability="100" scale="1">
+            <A hash="4FF165D6"/>
+        </file>
+    </GAME>
+</config>
+
