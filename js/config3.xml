@@ -1,0 +1,118 @@
+<?xml version="1" encoding="utf-8"?>
+<config>
+	<game ver="3195" code_size="51036160">
+		<file name="mrpcs.data" gray="100" a="E49AF4B1" b="00000000"/>
+	</game>
+	<game ver="3730" code_size="51544064">
+		<file name="mrpcs.data" gray="100" a="DFAE9EEF" b="9701EE43"/>
+	</game>
+	<game ver="4200" code_size="52002816">
+		<file name="mrpcs.data" gray="100" a="B0CB3A4A" b="C9AB4EDF"/>
+	</game>
+	<game ver="4762" code_size="53641216">
+		<file name="mrpcs.data" gray="100" a="2B2E23B3" b="00000000"/>
+	</game>
+	<game ver="5351" code_size="54771712">
+		<file name="mrpcs.data" gray="100" a="B5589C60" b="7AC74F18"/>
+	</game>
+	<game ver="5630" code_size="54886400">
+		<file name="mrpcs.data" gray="100" a="F44BE5D8" b="C1A0E226"/>
+	</game>
+	<game ver="6301" code_size="56229888">
+		<file name="mrpcs.data" gray="100" a="CA34D6ED" b="EF6869F3"/>
+	</game>
+	<game ver="6500" code_size="56459264">
+		<file name="mrpcs.data" gray="100" a="C66B8806" b="C8FFE57F"/>
+	</game>
+	<game ver="7300" code_size="57180160">
+		<file name="mrpcs.data" gray="100" a="D0CA7719" b="00000000"/>
+	</game>
+	<game ver="7700" code_size="57982976">
+		<file name="mrpcs.data" gray="100" a="ED60B2A4" b="00000000"/>
+	</game>
+	<game ver="7720" code_size="58753024">
+		<file name="mrpcs.data" gray="100" a="F4DCED94" b="00000000"/>
+	</game>
+	<game ver="8000" code_size="69206016">
+		<file name="tssmua.zip" gray="100" a="5F1E05E7" b="00000000"/>
+		<file name="mrpcs.data" gray="100" a="32788084" b="00000000"/>
+	</game>
+	<game ver="8060" code_size="70418432">
+		<file name="mrpcs.data" gray="100" a="16A90812" b="AE1C84A8"/>
+		<file name="tssmua.zip" gray="100" a="5F1E05E7" b="00000000"/>
+	</game>
+	<game ver="8151" code_size="73138176">
+		<file name="mrpcs.data" gray="100" a="6E2F9126" b="0B8B1F6B"/>
+		<file name="tssmua.zip" gray="100" a="5F1E05E7" b="00000000"/>
+	</game>
+	<game ver="8230" code_size="75350016">
+		<file name="mrpcs.data" gray="100" a="2AD6FF0F" b="F7FEDC21"/>
+		<file name="tssmua.zip" gray="100" a="3688A31C" b="00000000"/>
+	</game>
+	<game ver="8351" code_size="86097920">
+		<file name="mrpcs.data" gray="100" a="F9696FF3" b="40614640"/>
+		<file name="tssmua.zip" gray="100" a="002259AF" b="3688A31C"/>
+	</game>
+	<game ver="8500" code_size="89587712">
+		<file name="mrpcs.data" gray="100" a="88EF835E" b="115F0CFD"/>
+		<file name="tssmua.zip" gray="100" a="002259AF" b="00000000"/>
+	</game>
+	<game ver="8630" code_size="91275264">
+		<file name="mrpcs.data" gray="100" a="68E6D796" b="36BC2A81"/>
+		<file name="tssmua.zip" gray="100" a="355B3590" b="9B711ABD"/>
+	</game>
+	<game ver="8800" code_size="94552064">
+		<file name="mrpcs.data" gray="100" a="F64E251B" b="BFC4A1F2"/>
+		<file name="tssmua.zip" gray="100" a="1C8710C6" b="5BB1018B"/>
+	</game>
+	<game ver="9005" code_size="100188160">
+		<file name="mrpcs.data" gray="100" a="3D0158D4" b="CB2FA99F"/>
+		<file name="tssmua.zip" gray="100" a="1C8710C6" b="00000000"/>
+	</game>
+	<game ver="9151" code_size="115621888">
+		<file name="mrpcs.data" gray="100" a="673B5B1D" b="3FC65E48"/>
+		<file name="tssmua.zip" gray="100" a="1C8710C6" b="00000000"/>
+	</game>
+	<game ver="9351" code_size="118505472">
+		<file name="mrpcs.data" gray="100" a="C3ADA437" b="E9529786"/>
+		<file name="tssmua.zip" gray="100" a="1C8710C6" b="00000000"/>
+	</game>
+	<game ver="9600" code_size="123060224">
+		<file name="mrpcs.data" gray="100" a="E12CA8D4" b="5E7DFF79"/>
+		<file name="tssmua.zip" gray="100" a="1C8710C6" b="00000000"/>
+	</game>
+	<game ver="9750" code_size="129220608">
+		<file name="mrpcs.data" gray="70" a="A891E42B" b="8A626937"/>
+		<file name="tssmua.zip" gray="100" a="D725353F" b="00000000"/>
+	</game>
+	<game ver="10000" code_size="136003584">
+		<file name="mrpcs.data" gray="70" a="F229E3AD" b="B4F3F93E"/>
+		<file name="tssmua.zip" gray="100" a="D725353F" b="00000000"/>
+	</game>
+	<game ver="10200" code_size="132939776">
+		<file name="mrpcs.data" gray="100" a="DCE19B8B" b="0A028E9D"/>
+		<file name="tssmua.zip" gray="100" a="0D80FF8A" b="D725353F"/>
+	</game>
+	<game ver="10360" code_size="128352256">
+		<file name="mrpcs.data" gray="100" a="F4BD0722" b="DA5B683A"/>
+		<file name="tssmua.zip" gray="100" a="3D91F4F1" b="00000000"/>
+	</game>
+	<game ver="10720" code_size="132235264">
+		<file name="mrpcs.data" gray="100" a="4AEE7030" b="2A7E965D"/>
+		<file name="tssmua.zip" gray="100" a="3D91F4F1" b="00000000"/>
+	</game>
+	<game ver="10920" code_size="133234688">
+		<file name="mrpcs.data" gray="100" a="52395A94" b="45C9130C"/>
+		<file name="tssmua.zip" gray="100" a="3D91F4F1" b="00000000"/>
+	</game>
+	<game ver="11120" code_size="136527872">
+		<file name="mrpcs.data" gray="100" a="A9CBBA95" b="22FEA617"/>
+		<file name="tssmua.zip" gray="100" a="37180B29" b="00000000"/>
+	</game>
+	<game ver="11350" code_size="139886592">
+		<file name="mrpcs.data" gray="100" a="1362D439" b="9AAC00EE"/>
+	</game>
+	<game ver="11600" code_size="144228352">
+		<file name="mrpcs.data" gray="100" a="B465D8F2" b="00000000"/>
+	</game>
+</config>
