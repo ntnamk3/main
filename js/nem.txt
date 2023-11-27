@@ -8,7 +8,7 @@
 127.0.0.1 intl.anticheatexpert.com
 127.0.0.1 ff.intl.anticheatexpert.com
 127.0.0.1 dump.anticheatexpert.com
-ctp.anticheatexpert.com
+127.0.0.1 ctp.anticheatexpert.com
 127.0.0.1 defender.anticheatexpert.com
 127.0.0.1 tqos.anticheatexpert.com
 127.0.0.1 court.anticheatexpert.com
