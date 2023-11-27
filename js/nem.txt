@@ -1,4 +1,5 @@
-127.0.0.1gamemaxssl.tutorial-it.tk
+127.0.0.1 basic.ioshax.co
+127.0.0.1 gamemaxssl.tutorial-it.tk
 127.0.0.1 pubgmobile.com
 127.0.0.1 clubopen.pubgmobile.com
 127.0.0.1 file-pmco.pubgmobile.com
