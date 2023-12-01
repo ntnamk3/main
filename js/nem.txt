@@ -340,3 +340,45 @@
 127.0.0.1 codm.garena.com
 127.0.0.1 itopsdk.com
 127.0.0.1 tdatamaster.com
+127.0.0.1 activision.com
+127.0.0.1 anticheatexpert.com
+127.0.0.1 authenticate.riotgames.com
+127.0.0.1 auth.riotgames.com
+127.0.0.1 bacon.secure.dyn.riotcdn.net
+127.0.0.1 cdn.wetest.qq.com
+127.0.0.1 clientconfig.rpg.riotgames.com
+127.0.0.1 codm.activision.com
+127.0.0.1 codmwest.com
+127.0.0.1 control-out.mna.qq.com
+127.0.0.1 data.riotgames.com
+127.0.0.1 down.anticheatexpert.com
+127.0.0.1 dyn.riotcdn.net
+127.0.0.1 gcloudctrl.prod01.amer.cros.wr.pvp.net
+127.0.0.1 geoconfig.wr.pvp.net
+127.0.0.1 lol.secure.dyn.riotcdn.net
+127.0.0.1 lolstatic-a.akamaihd.net
+127.0.0.1 mna.qq.com
+127.0.0.1 msdk.prod01.amer.cros.wr.pvp.net
+127.0.0.1 myqcloud.com
+127.0.0.1 prod-speedtest.cros.wr.pvp.net
+127.0.0.1 pvp.net
+127.0.0.1 qq.com
+127.0.0.1 riotcdn.net
+127.0.0.1 riot-client.dyn.riotcdn.net
+127.0.0.1 riot-client.secure.dyn.riotcdn.net
+127.0.0.1 riotgames.com
+ritoplus.secure.dyn.riotcdn.net
+secure.dyn.riotcdn.net
+127.0.0.1 tdm.prod01.amer.cros.wr.pvp.net
+127.0.0.1 valorant.secure.dyn.riotcdn.net
+127.0.0.1 west-cloudctrl.codm.activision.com
+127.0.0.1 west-tdm.codmwest.com
+127.0.0.1 wetest.qq.com
+127.0.0.1 wildrift-na.akamaized.net
+127.0.0.1 www.activision.com
+127.0.0.1 www.anticheatexpert.com
+127.0.0.1 www.codmwest.com
+127.0.0.1 www.pvp.net
+127.0.0.1 www.qq.com
+127.0.0.1 www.riotgames.com
+
