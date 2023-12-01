@@ -1,61 +1,31 @@
-127.0.0.1
-localhost
-::1
-ip6-localhost
-
+127.0.0.1 localhost
+::1 ip6-localhost
 0.0.0.1 euspeed.igamecj.com
-
 0.0.0.1 krping.igamecj.com
-
 0.0.0.1 meping.igamecj.com
-
 0.0.0.1 saping. 1gamecj.com
-
 0.0.0.1 hkping.igamecj.com
-
 0.0.0.1 euping.igamecj.com
-
 0.0.0.1 naping. 1gamecj.com
-
 0.0.0.1 cs.mbgame. gamesafe.qq.com
-
 0.0.0.1 lobby.igamecj.com
-
 0.0.0.1 oth.str.mdt.qq.com
-
 0.0.0.1 pingma.qq.com
-
 0.0.0.1 apm.wetest.qq.com
-
 0.0.0.1 49.51.135.189
-
 0.0.0.1 192.168.0.1
-
 0.0.0.1 qos.hk.gcloudcs.com
-
 0.0.0.1 cloud.gsdk. proximabeta.com
-
 0.0.0.1 49.51.169.224
-
 0.0.0.1 tpns.qq.com
-
 0.0.0.1 api. xxzhushou.cn
-
 0.0.0.1 49.51.42.152
-
 0.0.0.1 119.28.164.220
-
 0.0.0.1 down.qq.com
-
 0.0.0.1 file-igamecj.akamaized.net
-
 0.0.0.1 file. 1gamecj.com
-
 0.0.0.1 gcloud.download.igamecj.com
-
 0.0.0.1 download.2.1375135419.igame.gcloudcs.com
-
-
 0.0.0.1 hkconfig•geloud.qq.com
 0.0.0.1 182.254.116.117
 0.0.0.1c.tdm.qq.com
