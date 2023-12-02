@@ -1,6 +1,4 @@
-127.0.0.1 localhost
-::1 ip6-localhost
-0.0.0.1 basic.ioshax.co
+127.0.0.1 basic.ioshax.co
 0.0.0.1 euspeed.igamecj.com
 0.0.0.1 krping.igamecj.com
 0.0.0.1 meping.igamecj.com
