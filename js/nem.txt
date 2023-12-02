@@ -1,6 +1,5 @@
 127.0.0.1 localhost
 ::1 ip6-localhost
-127.0.0.1 basic.ioshax.co
 0.0.0.1 euspeed.igamecj.com
 0.0.0.1 krping.igamecj.com
 0.0.0.1 meping.igamecj.com
@@ -405,8 +404,8 @@
 127.0.0.1 riot-client.dyn.riotcdn.net
 127.0.0.1 riot-client.secure.dyn.riotcdn.net
 127.0.0.1 riotgames.com
-ritoplus.secure.dyn.riotcdn.net
-secure.dyn.riotcdn.net
+127.0.0.1 ritoplus.secure.dyn.riotcdn.net
+127.0.0.1 secure.dyn.riotcdn.net
 127.0.0.1 tdm.prod01.amer.cros.wr.pvp.net
 127.0.0.1 valorant.secure.dyn.riotcdn.net
 127.0.0.1 west-cloudctrl.codm.activision.com
