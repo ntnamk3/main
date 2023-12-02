@@ -177,7 +177,6 @@
 127.0.0.1 us.api.globalgme.com
 127.0.0.1 asia.csoversea.mbgame.anticheatexpert.com
 127.0.0.1 dl.ops.kgvn.garenanow.com
-127.0.0.1 vn-aovtv-op.timi-esports.qq.com
 127.0.0.1 speed.kg.garena.vn
 127.0.0.1 bugly-ios.cros.garena.com
 127.0.0.1 cdn-gop.garenanow.com
@@ -191,7 +190,6 @@
 127.0.0.1 us.api.globalgme.com
 127.0.0.1 asia.csoversea.mbgame.anticheatexpert.com
 127.0.0.1 dl.ops.kgvn.garenanow.com
-127.0.0.1 vn-aovtv-op.timi-esports.qq.com
 127.0.0.1 speed.kg.garena.vn
 127.0.0.1 bugly-ios.cros.garena.com
 127.0.0.1 itop.kg.garena.vn
