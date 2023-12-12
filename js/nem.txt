@@ -1,5 +1,5 @@
-127.0.0.1       localhost 
-::1             ip6-localhost
+127.0.0.1 localhost 
+::1 ip6-localhost
 127.0.0.1 basic.ioshax.co
 127.0.0.1 gameguardian.net
 127.0.0.1 safe.mt2.cn
