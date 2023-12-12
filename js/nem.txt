@@ -95,6 +95,7 @@
 127.0.0.1 k.gjacky.com
 127.0.0.1 cloud.gsdk.proximabeta.com
 127.0.0.1 napubgm.broker.amsoveasea.com
+127.0.0.1 *.anticheatexpert.com
 127.0.0.1 asia.csoversea.mbgame.anticheatexpert.com
 127.0.0.1 down.anticheatexpert.com
 127.0.0.1 ig-us-sdkapi.igamecj.com
