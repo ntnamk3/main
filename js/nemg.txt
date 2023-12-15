@@ -5,3 +5,4 @@
 127.0.0.1 safe.mt2.cn
 127.0.0.1 plbslog.umeng.com
 127.0.0.1 ulogs.umeng.com
+127.0.0.1 umeng.com
