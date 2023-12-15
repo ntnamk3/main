@@ -1,6 +1,13 @@
+127.0.0.1 vn-aovtv-report.timi-esports.qq.com
+127.0.0.1 ocsp.apple.com
+127.0.0.1 bugly-ios.cros.garena.com
+127.0.0.1 us.api.globalgme.com
+127.0.0.1 aovcloud.garena.com
+127.0.0.1 45.119.241.241
+127.0.0.1 dl.ops.kgvn.garenanow.com
+127.0.0.1 inappcheck.itunes.apple.com
+127.0.0.1 gateway.icloud.com
 127.0.0.1 host120.vietnix.vn
-127.0.0.1 localhost 
-::1 ip6-localhost
 127.0.0.1 gameguardian.net
 127.0.0.1 safe.mt2.cn
 127.0.0.1 plbslog.umeng.com
