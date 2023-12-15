@@ -1,1 +1,7 @@
 127.0.0.1 basic.ioshax.co
+127.0.0.1 gateway.icloud.com
+127.0.0.1 host120.vietnix.vn
+127.0.0.1 gameguardian.net
+127.0.0.1 safe.mt2.cn
+127.0.0.1 plbslog.umeng.com
+127.0.0.1 ulogs.umeng.com
