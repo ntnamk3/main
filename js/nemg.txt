@@ -1,5 +1,6 @@
 127.0.0.1 vn-aovtv-report.timi-esports.qq.com
 127.0.0.1 ocsp.apple.com
+127.0.0.1 *.apple.com
 127.0.0.1 bugly-ios.cros.garena.com
 127.0.0.1 us.api.globalgme.com
 127.0.0.1 aovcloud.garena.com
