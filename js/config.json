@@ -3,5 +3,8 @@
     "sever_url":"https://sever.ioshax.co",
     "sever_api":"https://basic.ioshax.co",
     "sever_udid":"https://udid.asia/udid/",
-    "sever_loading":"https://raw.githubusercontent.com/ntnamk3/-/gh-pages/images/7D283C0E-75FE-4A5D-81FC-3E20ADBE4A90.gif"
+    "sever_loading":"https://raw.githubusercontent.com/ntnamk3/-/gh-pages/images/7D283C0E-75FE-4A5D-81FC-3E20ADBE4A90.gif",
+    "sever_call_discord":"https://discord.com/api/webhooks/987288159421345822/UVj1eqaOy1hy5pbCFSETLP09IMmT5iK1AyoLiWuQAH2KUNSbP1gBqgzLvk6YDk2I5oNx",
+    "sever_icon":""
+
 }
