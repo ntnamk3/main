@@ -1,6 +1,7 @@
 {
 
-    "sever_url":"",
-    "sever_api":"",
-    "sever_udid":""
+    "sever_url":"https://sever.ioshax.co",
+    "sever_api":"https://basic.ioshax.co",
+    "sever_udid":"https://udid.asia/udid/",
+    "sever_loading":"https://raw.githubusercontent.com/ntnamk3/-/gh-pages/images/7D283C0E-75FE-4A5D-81FC-3E20ADBE4A90.gif"
 }
