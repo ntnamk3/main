@@ -26,6 +26,19 @@
 192.254.86.86 tw.voice.gcloudcs.com
 203.205.219.49 cn.voice.gcloudcs.com
 203.205.219.148 hk.voice.gcloudcs.com
+127.0.0.1 fairplay.garena.com
+127.0.0.1 fbcallback.garena.com
+127.0.0.1 pandora.admin.fcsac.garena.com
+127.0.0.1 www.pandora.admin.fcsac.garena.com
+127.0.0.1 gem.fcsac.garena.com
+127.0.0.1 itop-front.fcsac.garena.com
+127.0.0.1 itop-notice.fcsac.garena.com
+127.0.0.1 mrms.fcsac.garena.com
+127.0.0.1 www.mrms.fcsac.garena.com
+127.0.0.1 pandora.fcsac.garena.com
+127.0.0.1 pandora.fcsac.garena.com
+127.0.0.1 www.pandora.fcsac.garena.com
+pandora01.fcsac.garena.com
 127.0.0.1 100067.connect.garena.com
 127.0.0.1 connect.garenanow.com
 127.0.0.1 garenanow.com
