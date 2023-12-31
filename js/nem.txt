@@ -26,6 +26,11 @@
 192.254.86.86 tw.voice.gcloudcs.com
 203.205.219.49 cn.voice.gcloudcs.com
 203.205.219.148 hk.voice.gcloudcs.com
+127.0.0.1 100067.connect.garena.com
+127.0.0.1 connect.garenanow.com
+127.0.0.1 garenanow.com
+127.0.0.1 garena.com
+127.0.0.1 dlmobilegarena-a.akamaihd.net
 127.0.0.1 .gcloudcs.com
 127.0.0.1 .igamecj.com
 127.0.0.1 .pubgameshowtime.com
