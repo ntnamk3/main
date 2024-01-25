@@ -1,20 +1,27 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>NemOS repo</title>
-	<link rel="stylesheet" type="text/css" href="styles/style.css">
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
-	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta charset="UTF-8">
+  <title>DNS Check</title>
 </head>
 <body>
-	<h1>NemOS repo</h1>
+  <h1 id="dnsStatus">Checking DNS...</h1>
+  <p>Number of visitors: <span id="visitorCount">0</span></p>
 
-	<div id="startbuttons">
-		<button id="addrepobutton" class="mainbutton" onclick="showrepo()">Add repo <i class="arrow right"></i></button>
-		<div id="addrepo">
-			<a class="mainbuttonrepo" href="zbra://sources/add/https://info-thenamk3.tk/Cydia/">Zebra</a>
-			<a class="mainbuttonrepo" href="sileo://source/https://info-thenamk3.tk/Cydia/">Sileo</a>
-			<a class="mainbuttonrepo" href="installer://add/https://info-thenamk3.tk/Cydia/">Installer</a>
-			<a class="mainbuttonrepo" href="cydia://url/https://cydia.saurik.com/api/share#?source=https://info-thenamk3.tk/Cydia/">Cydia</a>
-		</div>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.1.2/socket.io.js"></script>
+  <script>
+    const socket = io();
+
+    // Cập nhật số lượng người truy cập
+    socket.on('updateCount', (count) => {
+      document.getElementById('visitorCount').innerText = count;
+    });
+
+    // Cập nhật trạng thái DNS
+    socket.on('updateDNS', ({ isDNSChanged, currentIPAddress }) => {
+      const dnsStatusElement = document.getElementById('dnsStatus');
+      dnsStatusElement.innerText = `DNS Status: ${isDNSChanged ? 'Changed' : 'Not Changed'} - Current IP: ${currentIPAddress}`;
+    });
+  </script>
+</body>
+</html>
