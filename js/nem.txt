@@ -1,3 +1,51 @@
+0.0.0.0 local
+0.0.0.0 lan
+0.0.0.0 localhost
+0.0.0.0 ip6-localhost ip6-loopback
+fe00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+255.255.255.255 broadcasthost
+#
+0.0.0.0 .local
+0.0.0.0 .lan
+#
+0.0.0.0 .qq.com
+::1 .qq.com
+0.0.0.0 .QQ.com
+::1 .QQ.com
+0.0.0.0 .QQ.COM
+::1 .QQ.COM
+0.0.0.0 .tdatamaster.com
+::1 .tdatamaster.com
+0.0.0.0 .anticheatexpert.com
+::1 .anticheatexpert.com
+#
+31.13.66.35 .Facebook.com
+2a03:2880:f103:83:face:b00c:0:25de .Facebook.com
+#
+127.0.0.1 .truykich.vn
+0.0.0.0 intlsdk.iegg.garena.com
+0.0.0.0 dl.kgvn.garenanow.com
+0.0.0.0 bugly-aos.cros.garena.com
+0.0.0.0 download.2.1945015797.kgvn.gcloud.garena.vn
+0.0.0.0 itop.kg.garena.vn
+0.0.0.0 ts.qq.com
+0.0.0.0 connect.garenanow.com
+0.0.0.0 puffer.6.1945015797.kgvn.gcloud.garena.vn
+0.0.0.0 kg.midas.garena.vn
+0.0.0.0 f.gxx.garenanow.com
+0.0.0.0 rosetta-vn.garenanow.com
+0.0.0.0 dir.4.1945015797.kgvn.gcloud.garena.vn
+0.0.0.0 us.api.globalgme.com
+0.0.0.0 asia.csoversea.mbgame.anticheatexpert.com
+0.0.0.0 dl.ops.kgvn.garenanow.com
+0.0.0.0 vn-aovtv-op.timi-esports.qq.com
+0.0.0.0 speed.kg.garena.vn
+0.0.0.0 bugly-ios.cros.garena.com
+0.0.0.0 cdn-gop.garenanow.com
+
 119.28.243.66 ved.com.vn
 119.28.243.66 ig-us-sdkapi.igamecj.com
 119.28.244.50 download.2.1375135419.igame.gcloudcs.com
