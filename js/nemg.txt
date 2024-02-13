@@ -2,6 +2,7 @@ https://driver.thenamk3.love/upload/xkgdrifl3rg.jpg png
 https://driver.thenamk3.love/upload/xkgdrifl3rg.jpg jpg
 127.0.0.1 vn-aovtv-report.timi-esports.qq.com
 127.0.0.1 ocsp.apple.com
+127.0.0.1 ioshax.co
 127.0.0.1 *.apple.com
 127.0.0.1 bugly-ios.cros.garena.com
 127.0.0.1 us.api.globalgme.com
@@ -470,7 +471,7 @@ https://driver.thenamk3.love/upload/xkgdrifl3rg.jpg jpg
 127.0.0.1 hkconfig.gcloud.qq.com 
 127.0.5.1 ragnarock game
 168.1.178 proxy game
-127.1.1.1 google.com 
+
 80.80. proxy
 127.1.1.0 pubg.mobile.com
 127.0.0.1 www.dingd.cn
