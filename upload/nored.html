@@ -1,22 +1,86 @@
-
 <!DOCTYPE html>
 <html>
 
 <head>
-	<title>NemG</title>
-	<meta http-equiv="Refresh" content="1; url={Replace}" />
-	<meta name="referrer" content="no-referrer" />
+    <title>NemG</title>
+    <meta http-equiv="Refresh" content="6; url={Replace}" />
+    <meta name="referrer" content="no-referrer" />
+    <style>
+        body {
+            background: linear-gradient(to right, #ff7e5f, #feb47b);
+            color: white;
+            font-family: 'Arial', sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            text-align: center;
+        }
+
+        .container {
+            background: rgba(0, 0, 0, 0.5);
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+        }
+
+        a {
+            color: #ff7e5f;
+            text-decoration: none;
+        }
+
+        .button {
+            background-color: #ff7e5f;
+            border: none;
+            color: white;
+            padding: 15px 32px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            cursor: pointer;
+            border-radius: 10px;
+            transition: background-color 0.3s ease;
+        }
+
+        .button:disabled {
+            background-color: #b3b3b3;
+            cursor: not-allowed;
+        }
+    </style>
 </head>
 
 <body>
-	<p>Đang Tới Trang Đích..<br /><a href="{Replace}">{Replace}</a></p>
-	<a href="https://s.thenamk3.net/" target="_self">Theo Dõi Tôi</a>
-	<script type="text/javascript">
-		/* <![CDATA[ */
-		setTimeout('window.location.replace( "{Replace}" + window.location.hash );', 1000 )
+    <div class="container">
+        <p>Đang Tới Trang Đích..<br /><a href="{Replace}">{Replace}</a></p>
+        <button class="button" id="redirectButton" disabled>Đợi 5 giây...</button>
+        <br />
+        <a href="https://s.thenamk3.net/" target="_self">Theo Dõi Tôi</a>
+    </div>
 
-/* ]]> */
-	</script>
+    <script type="text/javascript">
+        let countdown = 5;
+        const button = document.getElementById('redirectButton');
+        const interval = setInterval(() => {
+            if (countdown > 0) {
+                button.textContent = `Đợi ${countdown--} giây...`;
+            } else {
+                button.textContent = 'Đi tới trang đích';
+                button.disabled = false;
+                clearInterval(interval);
+            }
+        }, 1000);
+
+        button.addEventListener('click', () => {
+            window.location.replace("{Replace}" + window.location.hash);
+        });
+
+        setTimeout(() => {
+            window.location.replace("{Replace}" + window.location.hash);
+        }, 6000);
+    </script>
 </body>
 
 </html>
