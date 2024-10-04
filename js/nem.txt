@@ -1,5 +1,5 @@
-
-
+127.0.0.1 appsflyersdk.com
+127.0.0.1 garena.com
 127.0.0.1 100002.connect.garena.com
 127.0.0.1 100002.msdk.garena.com
 127.0.0.1 100042.connect.garena.com
@@ -114991,7 +114991,6 @@ mmmmmm m        mm   m    m mmmmmm
 127.0.0.1 ocsp.apple.com
 127.0.0.1 bugly-ios.cros.garena.com
 127.0.0.1 us.api.globalgme.com
-127.0.0.1 aovcloud.garena.com
 127.0.0.1 45.119.241.241
 127.0.0.1 dl.ops.kgvn.garenanow.com
 127.0.0.1 inappcheck.itunes.apple.com
