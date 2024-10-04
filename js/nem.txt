@@ -1,5 +1,7 @@
 127.0.0.1 appsflyersdk.com
+127.0.0.1 *.appsflyersdk.com
 127.0.0.1 garena.com
+127.0.0.1 *.garena.com
 127.0.0.1 100002.connect.garena.com
 127.0.0.1 100002.msdk.garena.com
 127.0.0.1 100042.connect.garena.com
