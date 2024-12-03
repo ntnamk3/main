@@ -1,0 +1,16 @@
+{
+  "versions": [
+    {
+      "Name": "Phiên bản 1.0",
+      "version": "1.0",
+      "dylib": "https://example.com/path/to/version1.dylib",
+      "changelog": "Thay đổi trong phiên bản 1.0: Cập nhật chức năng A, sửa lỗi B"
+    },
+    {
+      "Name": "Phiên bản 2.0",
+      "version": "2.0",
+      "dylib": "https://example.com/path/to/version2.dylib",
+      "changelog": "Thay đổi trong phiên bản 2.0: Thêm chức năng X, cải thiện hiệu suất"
+    }
+  ]
+}
