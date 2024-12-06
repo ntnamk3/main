@@ -12,6 +12,7 @@
 127.0.0.1 asia.csoversea.mbgame.anticheatexpert.com
 127.0.0.1 bugly-ios.cros.garena.com
 127.0.0.1 cdn-gop.garenanow.com
+127.0.0.1 zxzvn.xyz
 127.0.0.1 asia.csoversea.mbgame.anticheatexpert.com
 127.0.0.1 45.119.241.241
 127.0.0.1 aaplimg.com
