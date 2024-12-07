@@ -16,6 +16,7 @@
 127.0.0.1 asia.csoversea.mbgame.anticheatexpert.com
 127.0.0.1 45.119.241.241
 127.0.0.1 aaplimg.com
+127.0.0.1 core.hack2ios.com
 127.0.0.1 akadns.net
 127.0.0.1 akamai.net
 127.0.0.1 amazonaws.com
