@@ -27,4 +27,4 @@
 127.0.0.1 gnwte4-inapps.appsflyersdk.com
 127.0.0.1 gnwte4-launches.appsflyersdk.com
 127.0.0.1 lienquan.garena.vn
-*REJECT 100054.connect.garena.com
+
