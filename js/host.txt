@@ -1,7 +1,5 @@
 127.0.0.1 appsflyersdk.com
 127.0.0.1 *.appsflyersdk.com
-127.0.0.1 garena.com
-127.0.0.1 *.garena.com
 127.0.0.1 connect.garenanow.com
 127.0.0.1 puffer.6.1945015797.kgvn.gcloud.garena.vn
 127.0.0.1 kg.midas.garena.vn
