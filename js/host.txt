@@ -2,14 +2,11 @@
 127.0.0.1 *.appsflyersdk.com
 127.0.0.1 connect.garenanow.com
 127.0.0.1 puffer.6.1945015797.kgvn.gcloud.garena.vn
-127.0.0.1 kg.midas.garena.vn
-127.0.0.1 f.gxx.garenanow.com
 127.0.0.1 rosetta-vn.garenanow.com
 127.0.0.1 dir.4.1945015797.kgvn.gcloud.garena.vn
 127.0.0.1 us.api.globalgme.com
 127.0.0.1 asia.csoversea.mbgame.anticheatexpert.com
 127.0.0.1 bugly-ios.cros.garena.com
-127.0.0.1 cdn-gop.garenanow.com
 127.0.0.1 zxzvn.xyz
 127.0.0.1 asia.csoversea.mbgame.anticheatexpert.com
 127.0.0.1 45.119.241.241
@@ -24,5 +21,4 @@
 127.0.0.1 cloud2.gsdk.proximabeta.com
 127.0.0.1 gnwte4-inapps.appsflyersdk.com
 127.0.0.1 gnwte4-launches.appsflyersdk.com
-127.0.0.1 lienquan.garena.vn
 
